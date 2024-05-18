@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.graqr
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, data, data-jdbc, graalvm, gradle, groovy-sql, http-client-test, jackson-databind, jdbc-hikari, jobrunr-jobrunr, kotlin, kotlin-application, kotlin-extension-functions, ksp, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, postgres, problem-json, readme, retry, shade, slf4j-simple, spock, static-resources, swagger-ui, test-resources, yaml, yaml-build]
